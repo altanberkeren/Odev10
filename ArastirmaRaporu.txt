@@ -1,0 +1,29 @@
+Görsel Programlama:
+Görsel programlama, programların grafiksel öğeler (formlar, butonlar, kutular vb.) kullanılarak geliştirildiği bir programlama yaklaşımıdır. Kod yazmak yerine, kullanıcı arayüzü bileşenleri sürükle bırak yöntemiyle tasarlanır. C# da, genellikle Windows Forms, WPF veya .NET MAUI kullanılarak gerçekleştirilir.
+
+Metin Tabanlı Programlama:
+Metin tabanlı programlama, tüm programlama işlemlerinin yalnızca yazılı kodlarla gerçekleştirildiği geleneksel yöntemdir. Geliştirici, hem arayüz hem de mantıksal işlemleri kod yazarak oluşturur.
+
+Kullanım Kolaylığı:
+Görsel programlama, özellikle yeni başlayanlar için daha kolay ve anlaşılırdır.
+Metin tabanlı programlama, daha fazla dikkat ve sözdizimi bilgisi gerektirir.
+
+Arayüz Oluşturma:
+Görsel programlamada kullanıcı arayüzü (UI), görsel araçlarla sürüklenip tasarlanır.
+Metin tabanlı programlamada arayüz, kod yazarak oluşturulur.
+
+Hız ve Verimlilik:
+Görsel programlama, hızlıca form ve kontrol oluşturmayı sağlar.
+Metin tabanlı programlama daha esnektir ama arayüz geliştirme daha uzun sürebilir.
+
+Hata Yapma Olasılığı:
+Görsel programlamada tasarım araçları birçok hatayı önler.
+Metin tabanlı programlamada yazım ve sözdizimi hataları daha yaygındır.
+
+Esneklik:
+Metin tabanlı programlama genellikle daha güçlü ve esnektir.
+Görsel programlama, belirli sınırlar içinde çalışır ve bazı ileri seviye işlemleri desteklemez.
+
+Örnek Ortamlar:
+Görsel Programlama: Visual Studio (WinForms, WPF, .NET MAUI)
+Metin Tabanlı Programlama: Konsol uygulamaları, C#, Java, Python gibi dillerde manuel kodlama
